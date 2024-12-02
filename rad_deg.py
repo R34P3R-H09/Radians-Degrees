@@ -1,4 +1,5 @@
 # A small maths conversion programme that will convert a users input in Radians and convert it to Degrees.
+# I decided to do this whilst doing a University course.
 # Copyright (C) R34P3R-H09.
 
 import math
